@@ -10,6 +10,10 @@ For this analysis I use this [Data-set](https://s3.amazonaws.com/amazon-reviews-
 
 ## Results:
 
+### The total number of reviews
+
+#### Vine reviews:
+
 
 
 
