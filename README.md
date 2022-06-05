@@ -8,3 +8,9 @@ is to analyze Amazon reviews written by members of the paid Amazon Vine program,
 
 For this analysis I use this [Data-set](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_DVD_v1_00.tsv.gz)
 
+## Results:
+
+
+
+
+
